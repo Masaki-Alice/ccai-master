@@ -1,0 +1,30 @@
+<script setup>
+defineProps({
+    item: Object,
+});
+</script>
+
+<template>
+    <li class="col-span-1 flex rounded-md hover:shadow-lg">
+        <div
+            :class="`flex w-16 flex-shrink-0 items-center justify-center rounded-l-md text-sm font-medium text-white p-6 bg-${item.color}-500`">
+            {{ item.initials }}
+        </div>
+        <div
+            class="flex flex-1 items-center justify-between truncate rounded-r-md border-b border-r border-t border-gray-200 bg-white">
+            <div class="flex-1 truncate px-4 py-2 text-sm">
+                <a :href="`/${item.url}`" class="font-medium text-gray-900 hover:text-gray-600">{{ item.title }}</a>
+            </div>
+            <div class="flex-shrink-0 pr-2">
+                <a :href="route('inventory.index')"
+                    class="inline-flex h-8 w-8 items-center justify-center rounded-full bg-transparent bg-white text-gray-400 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2">
+                    <span class="sr-only">Open options</span>
+                    <svg class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                        <path
+                            d="M10 3a1.5 1.5 0 110 3 1.5 1.5 0 010-3zM10 8.5a1.5 1.5 0 110 3 1.5 1.5 0 010-3zM11.5 15.5a1.5 1.5 0 10-3 0 1.5 1.5 0 003 0z" />
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </li>
+</template>

@@ -1,0 +1,287 @@
+{
+  "response": {
+    "metadata": {
+      "language": "en",
+      "probability": "60%",
+      "num_speakers": 2,
+      "silence_percentage": "31.49%",
+      "safety_profile": [
+        {
+          "category": "HARM_CATEGORY_HATE_SPEECH",
+          "probability": "NEGLIGIBLE",
+          "probability_score": 0.20609397,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severity_score": 0.13511792
+        },
+        {
+          "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+          "probability": "NEGLIGIBLE",
+          "probability_score": 0.21733753,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severity_score": 0.1606607
+        },
+        {
+          "category": "HARM_CATEGORY_HARASSMENT",
+          "probability": "NEGLIGIBLE",
+          "probability_score": 0.35936412,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severity_score": 0.18668745
+        },
+        {
+          "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          "probability": "NEGLIGIBLE",
+          "probability_score": 0.13730095,
+          "severity": "HARM_SEVERITY_NEGLIGIBLE",
+          "severity_score": 0.12710987
+        }
+      ],
+      "api_usage": {
+        "prompt_token_count": 2989,
+        "candidates_token_count": 2739,
+        "total_token_count": 5728
+      }
+    },
+    "transcript": [
+      {
+        "start": "00:00:00.000",
+        "end": "00:00:04.560",
+        "text": "You have found it?",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:00:04.560",
+        "end": "00:00:06.240",
+        "text": "Yes",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:00:06.840",
+        "end": "00:00:14.280",
+        "text": "because it would mean Swissair Swissair has sent the screw",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:00:14.760",
+        "end": "00:00:15.600",
+        "text": "Yeah",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:00:15.960",
+        "end": "00:00:16.920",
+        "text": "Yes",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:00:17.520",
+        "end": "00:00:25.440",
+        "text": "And you have you have started to screw this morning today",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:00:25.680",
+        "end": "00:00:26.520",
+        "text": "Yeah",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:00:27.000",
+        "end": "00:00:28.200",
+        "text": "Today",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:00:29.040",
+        "end": "00:00:31.080",
+        "text": "in Copenhagen",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:00:31.080",
+        "end": "00:00:32.400",
+        "text": "in Copenhagen",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:00:32.520",
+        "end": "00:00:34.680",
+        "text": "at 10:00",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:00:34.920",
+        "end": "00:00:36.720",
+        "text": "10:00",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:00:36.840",
+        "end": "00:00:46.920",
+        "text": "At 10:00 with the same AWB number what they have given the last",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:00:47.280",
+        "end": "00:00:49.560",
+        "text": "The same AWB number?",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:00:49.560",
+        "end": "00:00:53.040",
+        "text": "Yeah, the same number, yes",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:00:53.160",
+        "end": "00:00:54.120",
+        "text": "Good",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:00:55.080",
+        "end": "00:01:00.240",
+        "text": "And the SR 402?",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:01:01.680",
+        "end": "00:01:10.920",
+        "text": "Is your SR yes 402",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:01:10.920",
+        "end": "00:01:13.200",
+        "text": "402 yes This is the same flight",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:01:13.320",
+        "end": "00:01:18.000",
+        "text": "Same flight, yes And the same AWB number?",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:01:18.120",
+        "end": "00:01:23.040",
+        "text": "And it's the same AWB number, yes",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:01:23.280",
+        "end": "00:01:25.560",
+        "text": "Very good",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:01:26.520",
+        "end": "00:01:29.760",
+        "text": "And it is come today?",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:01:29.880",
+        "end": "00:01:37.080",
+        "text": "Yeah, it is in Copenhagen now",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:01:37.200",
+        "end": "00:01:40.200",
+        "text": "Yes, very good",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:01:40.560",
+        "end": "00:01:46.920",
+        "text": "because this screw is coming this morning",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:01:47.040",
+        "end": "00:01:48.480",
+        "text": "Yes, okay Very good",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:01:50.640",
+        "end": "00:01:53.160",
+        "text": "Thank you very much",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:01:53.400",
+        "end": "00:01:59.160",
+        "text": "I am sorry for this for this delay",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:01:59.520",
+        "end": "00:02:01.680",
+        "text": "Oh, yeah",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:02:04.200",
+        "end": "00:02:18.480",
+        "text": "And as I have explained the last time to when you receive an invoice",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:02:19.080",
+        "end": "00:02:20.520",
+        "text": "Yes",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:02:21.360",
+        "end": "00:02:31.440",
+        "text": "for this dispatch method",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:02:31.560",
+        "end": "00:02:32.880",
+        "text": "Yes",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:02:33.240",
+        "end": "00:02:40.800",
+        "text": "you must not pay this invoice",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:02:41.040",
+        "end": "00:02:43.560",
+        "text": "Right, I understand Okay",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:02:45.480",
+        "end": "00:03:01.440",
+        "text": "You give us a short telex and we will arrange that by with Swissair",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:03:01.560",
+        "end": "00:03:05.160",
+        "text": "Yes, okay Thank you very much",
+        "speaker": "SPEAKER_1"
+      },
+      {
+        "start": "00:03:05.400",
+        "end": "00:03:10.440",
+        "text": "Thank you, bye bye Mr",
+        "speaker": "SPEAKER_2"
+      },
+      {
+        "start": "00:03:10.440",
+        "end": "00:03:12.840",
+        "text": "Bye bye",
+        "speaker": "SPEAKER_1"
+      }
+    ]
+  }
+}

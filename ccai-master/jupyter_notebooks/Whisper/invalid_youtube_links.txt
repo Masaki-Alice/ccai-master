@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=5ya2ip1-mfc => __init__: could not find match for ^\w+\W
+https://www.youtube.com/watch?v=3L6QJQegzJc => __init__: could not find match for ^\w+\W
+https://www.youtube.com/watch?v=DJJeExm7U-U => DJJeExm7U-U is age restricted, and can't be accessed without logging in.
+https://www.youtube.com/watch?v=DJJeExm7U-U => DJJeExm7U-U is age restricted, and can't be accessed without logging in.
+https://www.youtube.com/watch?v=pRn-JHuJl8w => __init__: could not find match for ^\w+\W
+https://www.youtube.com/watch?v=Q4lT2XkQwho => __init__: could not find match for ^\w+\W
+https://www.youtube.com/watch?v=bKxW-ksN07U => __init__: could not find match for ^\w+\W

@@ -1,0 +1,316 @@
+[
+  {
+      "Subject ": "Branch queries ",
+      "Key words ": "Branch, nilifungua account yangu branch ya ABC."
+    },
+    {
+      "Subject ": "Wrong numbers",
+      "Key words ": "Wrong number, hello, is this the bank nadhani i have might dialed the wrong number."
+    },
+    {
+      "Subject ": "Marketing queries ",
+      "Key words ": "Sponsorship, I have akasmall business, nilikuwa nataka kuinquire if you offer marketing support to such businesses?"
+    },
+    {
+      "Subject ": "Trade service queries ",
+      "Key words ": "Letters of credit, nilikuwa nataka kufanya trade services. Unajua vile I can raise such a query? Unajua hizi vitu ni ngumu sana. Na pia branches gani naweza pata cheque book yangu."
+    },
+    {
+      "Subject ": "Transfers and call backs ",
+      "Key words ": "Transfer, I need to transfer money to another account. can you assist?"
+    },
+    {
+      "Subject ": "Downtimes _Internet banking ",
+      "Key words ": "Internet banking downtime, niaje, nimejaribu kutumia mobile banking for the past one hour inakataa, is there a downtime or something?"
+    },
+    {
+      "Subject ": "Downtimes _Cards",
+      "Key words ": "Cards downtime, kuna shida na card services, my card isn't working."
+    },
+    {
+      "Subject ": "Downtimes _Loop",
+      "Key words ": "Loop downtime, the loop app seems to be down. can you check?"
+    },
+    {
+      "Subject ": "Downtimes _Mobile banking ",
+      "Key words ": "Mobile banking downtime,is the NCBA Now App having intermittency issues today?"
+    },
+    {
+      "Subject ": "Downtimes _Mpesa payments",
+      "Key words ": "Account to Mpesa downtime, My Mpesa payment isnt going through, is there a system problem?"
+    },
+    {
+      "Subject ": "Downtimes _Mshwari/Fuliza",
+      "Key words ": "Mshwari downtime,Hey, siezi access Mshwari account yangu kwani Mshwari iko down?"
+    },
+    {
+      "Subject ": "Downtimes _NCBA connect",
+      "Key words ": "Internet banking downtime,I'm unable to use NCBA connect. Is there a downtime?"
+    },
+    {
+      "Subject ": "Downtimes _Others ",
+      "Key words ": "System issue, Is there a general system issue today?"
+    },
+    {
+      "Subject ": "Downtimes _Pesalink",
+      "Key words ": "Pesalink downtime, Pesalink haiwork leo on my end, is there a platform isssue?"
+    },
+    {
+      "Subject ": "Downtimes _Swift/Clearing ",
+      "Key words ": "Payments downtime, are there any issues with Swift or Clearing payments?"
+    },
+    {
+      "Subject ": "Account activation ",
+      "Key words ": "Activate, unataka usaidizi ku uhhmmm, activate your account?"
+    },
+    {
+      "Subject ": "Account opening ",
+      "Key words ": "Open, would like any help to open a new account?"
+    },
+    {
+      "Subject ": "Account closure",
+      "Key words ": "Close, are you looking to close your account?"
+    },
+    {
+      "Subject ": "Account details ",
+      "Key words ": "Account number, hello, unaieza nisaidia na kuupdate account details kindly"
+    },
+    {
+      "Subject ": "Account restrictIons ",
+      "Key words ": "Cannot transact, i have been trying to do transaction for the past onee hour but haazigo through , nilikuwa  nataka kujua kwani nini account yangu iko na account restriction?"
+    },
+    {
+      "Subject ": "Account updates",
+      "Key words ": "Account update, i need to update my contact details on my account"
+    },
+    {
+      "Subject ": "Balance queries",
+      "Key words ": "Account balance, would you like to know your current account balance?"
+    },
+    {
+      "Subject ": "Cheque book collection",
+      "Key words ": "Cheque book, hey i am here to collect my cheque book"
+    },
+    {
+      "Subject ": "Fraud",
+      "Key words ": "Suspicious, there are suspicious transactions on my account, nimekuwa nikipata tu messages."
+    },
+    {
+      "Subject ": "Locked funds",
+      "Key words ": "locked funds, how do i lock my funds and what are the benefits?"
+    },
+    {
+      "Subject ": "Messages and alerts ",
+      "Key words ": "Alert, did you receive any alerts or notifications that you need help with?"
+    },
+    {
+      "Subject ": "Relationship management ",
+      "Key words ": "Relationship manager, do you need to speak to your relationship manager?"
+    },
+    {
+      "Subject ": "Safe Deposit lockers",
+      "Key words ": "Safe Deposit lockers, do you have any available safe deposit lockers?"
+    },
+    {
+      "Subject ": "Statements",
+      "Key words ": "Statement, can I get a copy of my account statement?"
+    },
+    {
+      "Subject ": "Tarrif",
+      "Key words ": "Charges and fees, can you explain the charges on my account?"
+    },
+    {
+      "Subject ": "Airtime and utility",
+      "Key words ": "Airtime, how do I pay my utility bill through my account?"
+    },
+    {
+      "Subject ": "Bankers' cheques",
+      "Key words ": "Bankers' cheque, i need a bankers' cheque. Can you help?"
+    },
+    {
+      "Subject ": "Cash deposits",
+      "Key words ": "Cash deposit, i want to make a cash deposit"
+    },
+    {
+      "Subject ": "Clearing cheques ",
+      "Key words ": "Cheque, when will my cheque clear?"
+    },
+    {
+      "Subject ": "Debit Authority",
+      "Key words ": "Mpesa to account reversal, can you reverse an Mpesa to account transaction?"
+    },
+    {
+      "Subject ": "Failed/ Pending B2B",
+      "Key words ": "Pending account to paybill, i have a pending transaction. Can you check?"
+    },
+    {
+      "Subject ": "Failed/ Pending B2C",
+      "Key words ": "Pending account to mpesa, i need to purchase float for my agency."
+    },
+    {
+      "Subject ": "Failed/ Pending C2B",
+      "Key words ": "Pending mpesa to account, i have a pending transaction. Can you check?"
+    },
+    {
+      "Subject ": "Float purchases",
+      "Key words ": "Float, i need to purchase float for my agency."
+    },
+    {
+      "Subject ": "FX Rates/Treasury ",
+      "Key words ": "Rate, what are the current FX rates?"
+    },
+    {
+      "Subject ": "Incoming transfers",
+      "Key words ": "Received funds, i am expecting some funds. Have they arrived?"
+    },
+    {
+      "Subject ": "Outgoing Transfers",
+      "Key words ": "Sent cash, i sent money. Has it been processed?" 
+    },
+    {
+      "Subject ": "Paybill number ",
+      "Key words ": "Paybill, what is your paybill number?"
+    },
+    {
+      "Subject ": "Payment advices ",
+      "Key words ": "Payment advice, can I get a payment advice for my transaction?"
+    },
+    {
+      "Subject ": "Payment Remiter details",
+      "Key words ": "source of payment, who sent the payment to my account?"
+    },
+    {
+      "Subject ": "Pesalink ",
+      "Key words ": "Pesalink, i need help with a Pesalink transaction."
+    },
+    {
+      "Subject ": "Recalls",
+      "Key words ": "Reversal, i need to recall a payment I made."
+    },
+    {
+      "Subject ": "Reversals -B2B",
+      "Key words ": "Account to till reversal"
+    },
+    {
+      "Subject ": "Reversals -B2C",
+      "Key words ": "Account to Mpesa reversal  "
+    },
+    {
+      "Subject ": "Reversals -pay bill/till deposits ",
+      "Key words ": "Account to till reversal, can you reverse a recent transaction?"
+    },
+    {
+      "Subject ": "Stop Payments",
+      "Key words ": "Stop a transaction, i need to stop a payment."
+    },
+    {
+      "Subject ": "STOs/ Direct debits ",
+      "Key words ": "Cancel a standing order, can I cancel a standing order?"
+    },
+    {
+      "Subject ": "Application and activation ",
+      "Key words ": "Card application, i need to activate my new card."
+    },
+    {
+      "Subject ": "Collection/Replacement ",
+      "Key words ": "Collect card, I’m here to collect my replacement card."
+    },
+    {
+      "Subject ": "ATM withdrawals ",
+      "Key words ": "Withdraw at ATM, I’m having trouble withdrawing money at the ATM."
+    },
+    {
+      "Subject ": "Auto pay ",
+      "Key words ": "Automatic deduction, how do I set up auto pay?"
+    },
+    {
+      "Subject ": "Balance enquiries ",
+      "Key words ": "Card balance, can you tell me my card balance?"
+    },
+    {
+      "Subject ": "Bonus request ",
+      "Key words ": "Apply funds to card, can you apply the bonus to my card?"
+    },
+    {
+      "Subject ": "Card blocking /unblocking",
+      "Key words ": "Block card, I need to block my card immediately."
+    },
+    {
+      "Subject ": "Card loading and top ups",
+      "Key words ": "Top up to card, how do I top up my card?"
+    },
+    {
+      "Subject ": "Charges ",
+      "Key words ": "Charges, what are the charges on my card?"
+    },
+    {
+      "Subject ": "Closure and cancellation",
+      "Key words ": "Cancel, I want to cancel my card."
+    },
+    {
+      "Subject ": "Failed transactions / declines",
+      "Key words ": "Payment declined, my card payment was declined. Can you help?"
+    },
+    {
+      "Subject ": "Fraud ",
+      "Key words ": "Suspicious transaction, there’s a transaction I didn't make on my card. "
+    },
+    {
+      "Subject ": "Limit Increase",
+      "Key words ": "Card, how can I increase my card limit?"
+    },
+    {
+      "Subject ": "Merchant confirmation",
+      "Key words ": "Payment for, can you confirm a payment to a merchant?"
+    },
+    {
+      "Subject ": "Payment reversals and disputes ",
+      "Key words ": "Reversals, i need to dispute a payment."
+    },
+    {
+      "Subject ": "PIN queries",
+      "Key words ": "Card, how do I change my card PIN?"
+    },
+    {
+      "Subject ": "Prepaid card portal",
+      "Key words ": "Portal, I’m having trouble with the prepaid card portal."
+    },
+    {
+      "Subject ": "Prepaid card transfers ",
+      "Key words ": "Transfers, how do I transfer money using my prepaid card?"
+
+    },
+    {
+      "Subject ": "Statements ",
+      "Key words ": "Statements, can I get my card statement?"
+    },
+    {
+      "Subject ": "Transaction authorisation",
+      "Key words ": "Authorize, i need to authorise a transaction."
+    },
+    {
+      "Subject ": "Travel advisory",
+      "Key words ": "Will be travelling, I’ll be travelling. Can I use my card abroad?"
+    },
+    {
+      "Subject ": "Complaints",
+      "Key words ": "Inconvenience, i have a complaint about your service."
+    },
+    {
+      "Subject ": "Inquiries",
+      "Key words ": "{Simple question and answer}, can you answer a few questions for me?"
+    },
+    {
+      "Subject ": "Service Requests",
+      "Key words ": "Words with requests, can you please send me my account details?"
+    },
+    {
+      "Subject ": " Leads ",
+      "Key words ": "Key words [interested, how do I appy for a loan"
+    },
+    {
+      "Subject ": "Service",
+      "Key words ": "poor service, I had a poor experience with your service."
+
+    }
+  ]

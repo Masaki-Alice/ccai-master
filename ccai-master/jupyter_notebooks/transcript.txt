@@ -1,0 +1,223 @@
+LANGUAGE: sw
+PROBABILITY: 99%
+[10.99s -> 15.61s]  Nimcheshi hata napotafuta muhula mungine wa raisuhuru Kenyata
+[15.61s -> 19.33s]  Na mimi niliwambia awa nduguzetu wa mutego ya kunasa
+[19.33s -> 24.32s]  Kwa sababu kwaenda wakatenganesa mutego ati ya kunasa watu
+[24.32s -> 25.40s]  Ukizikia anafika haba
+[25.40s -> 32.36s]  Hiko mtu gani mchinga haba ya kunasa na mutego ya apanya
+[32.36s -> 40.82s]  Vile vile nimtu mwenye misimamu Mikali anaposhikili ya kitu
+[40.82s -> 43.88s]  Anaganda hapo kama smaku kwa chuma
+[43.88s -> 48.56s]  If it is the issue of taking political responsibility
+[48.56s -> 57.41s]  For the officers I expect the prime minister to lead the way
+[57.41s -> 62.63s]  By taking political responsibility for the officers in his office
+[62.63s -> 66.77s]  Simu ingine bali ni William Samoei Arap Ruto
+[66.77s -> 69.75s]  Haliezaliwa miaka hamsini na moje liopita
+[69.75s -> 74.71s]  Eneo Lasugoi simbali sana na mjiwa Eldoret County ya Wasingishu
+[74.71s -> 79.15s]  Ni Eneo halikozaliwa na kusomea ujana wake mchanga
+[79.15s -> 83.39s]  Huku hakionekana mwenye kumbu kumbunzuri kuhusu halikotoka
+[83.39s -> 85.91s]  Licha kuwa na ibu kamanda wa taifa
+[85.91s -> 87.27s]  This man here is my dad
+[87.27s -> 96.05s]  Many people when I ran for the first time in 1997
+[96.05s -> 101.22s]  Because my father was not prominent
+[101.22s -> 103.84s]  Many people did not ask me
+[103.84s -> 105.00s]  Oh who is your dad?
+[105.60s -> 108.08s]  Is he the managing director of this company?
+[108.34s -> 110.24s]  Was he a chief? Was he what?
+[110.66s -> 112.38s]  Was he what? I told them it was not all that
+[112.38s -> 116.70s]  Hali ingia katika ulimuengu wa siyasa muaka walfumu
+[116.72s -> 118.40s]  Moja kendamia tisainambili
+[118.40s -> 121.46s]  Chini ya vuguvugu la Youth for Canu 92
+[121.46s -> 126.64s]  Dhamiraku ikiwa kwa kikisha rice mstafu Daniel Toroitich Arap Moi
+[126.64s -> 130.60s]  Anashinda katika uchaguzi mkua mwaka huo wa tisainambili
+[130.60s -> 135.92s]  Safari hiyo upinzani ukyongozo na vyama kama vile Ford Kenya
+[135.92s -> 138.10s]  Ford Asili na DP
+[138.10s -> 140.86s]  Vili kuambioni kumtimua rice moi
+[140.86s -> 145.00s]  Ambayo siku hizo alikuwa uongozini kwa zaidi ya muongo moja
+[146.72s -> 151.04s]  Vikiwake wakati huo walijumuisha mugombeo raisu wa sasa Cyrus Jirongo
+[151.04s -> 153.42s]  Alie kwa mwenye kitu wa vuguvugu hilo
+[153.42s -> 156.32s]  Watu wajubili mutakuja tuketi tuzungumuze
+[156.32s -> 158.96s]  Watu wakodi mukuja tuketi tuzungumuze
+[158.96s -> 162.98s]  Lakini sisi tunataka haki ya jamii yetu
+[162.98s -> 165.64s]  Nikisema hivo aimaanishi mimi ni watermelon?
+[166.36s -> 166.94s]  Hapana
+[166.94s -> 168.78s]  Zambi ni zambi
+[168.78s -> 171.28s]  Mundunako dibuoni ni muoni sindio?
+[173.86s -> 177.22s]  Mimi nataka tufanya kazi ba moja na sarekali
+[177.22s -> 178.28s]  Kama itatuka kazi na sarekali
+[178.28s -> 178.40s]  Kama itatuka kazi na sarekali
+[178.40s -> 178.46s]  Kama itatuka kazi na sarekali
+[178.48s -> 179.12s]  Kama itatuka kazi na sarekali
+[179.12s -> 182.12s]  Lakini kama kazi yetu itakuwa ni kujunga get
+[182.12s -> 183.56s]  Na kufagia cho
+[183.56s -> 185.08s]  Hiya atuna haja
+[185.08s -> 187.38s]  My brother Jirongo za singine
+[187.38s -> 189.98s]  Anakasirika na mimi kwa sababu
+[189.98s -> 191.62s]  Zamani nilikuwa muti yake ya mukono
+[191.62s -> 195.38s]  Tasa
+[195.38s -> 202.00s]  Anakasirika na mimi
+[202.00s -> 204.82s]  Tasa anawana uyu ambaya nikuwa muti yaku ya mukono
+[204.82s -> 207.02s]  Alipitia wapi hapa mbaka
+[207.02s -> 207.06s]  Mbaka
+[207.06s -> 211.04s]  Lakini unajua my friend ni kuchipanga
+[211.04s -> 211.12s]  Lakini unajua my friend ni kuchipanga
+[211.12s -> 211.18s]  Lakini unajua my friend ni kuchipanga
+[211.18s -> 211.20s]  Lakini unajua my friend ni kuchipanga
+[211.20s -> 248.12s]  Lakini unajua my friend ni kuchipanga
+[248.12s -> 278.10s]  Lakini unajua my friend ni kuchipanga
+[278.10s -> 308.08s]  Lakini unajua my friend ni kuchipanga
+[308.08s -> 340.21s]  Lakini unajua my friend ni kuchipanga
+[340.21s -> 370.19s]  Lakini unajua my friend ni kuchipanga
+[370.19s -> 401.99s]  Lakini unajua my friend ni kuchipanga
+[401.99s -> 431.97s]  Lakini unajua my friend ni kuchipanga
+[431.97s -> 464.74s]  Lakini unajua my friend ni kuchipanga
+[464.74s -> 464.76s]  Lakini unajua my friend ni kuchipanga
+[464.76s -> 498.19s]  Lakini unajua my friend ni kuchipanga
+[498.19s -> 500.19s]  Lakini unajua my friend ni kuchipanga
+[500.19s -> 502.19s]  Lakini unajua my friend ni kuchipanga
+[502.19s -> 504.19s]  Lakini unajua my friend ni kuchipanga
+[504.19s -> 506.19s]  Lakini unajua my friend ni kuchipanga
+[506.19s -> 508.19s]  Lakini unajua my friend ni kuchipanga
+[508.19s -> 510.19s]  Lakini unajua my friend ni kuchipanga
+[510.19s -> 512.19s]  Lakini unajua my friend ni kuchipanga
+[512.19s -> 514.19s]  Lakini unajua my friend ni kuchipanga
+[514.19s -> 516.19s]  Lakini unajua my friend ni kuchipanga
+[516.19s -> 518.19s]  Lakini unajua my friend ni kuchipanga
+[518.19s -> 520.19s]  Lakini unajua my friend ni kuchipanga
+[520.19s -> 522.19s]  Lakini unajua my friend ni kuchipanga
+[522.19s -> 524.19s]  Lakini unajua my friend ni kuchipanga
+[524.19s -> 526.19s]  Lakini unajua my friend ni kuchipanga
+[526.19s -> 528.19s]  Lakini unajua my friend ni kuchipanga
+[528.19s -> 537.95s]  To make the decisions on the referendum on the basis of informed debate that is currently going on in the country.
+[538.15s -> 552.69s]  Bade ya ruto kujuzulu wadhifu wakatibu mkuu wa chama cha kanu na kujiunga na chama cha ODM, alikuwa watatu katika utewuzi wa kugombeo rice bada Raila Odinga, aliepata rithaya wajumbe huku Musalia Mudavadi ya kiwa wapili.
+[552.69s -> 572.02s]  Hapa ndio ruto wakaanza uhusiano wawazi kisiasa na Raila Odinga na atarizake zikamfanya Raila kubatizwa jina Arap Mibei kutokana na ukuruba wa watu wa jamii ya wakalenjin anakotoka ruto waliodhania siku hizo kwa Raila likuwa mkombozi wao.
+[575.78s -> 583.22s]  Uchaguzu ulofata wa maka wa alfumbili na sabaa, ulibu wa changamoto mpya kwa mwana siyasa huyu mzaliwa wa kamagut.
+[584.28s -> 585.02s]  Ni uchaguzu vizuri.
+[585.16s -> 598.00s]  Uchaguzu liokumbwa na utata bada ya ODM kudai ushindi na kutangazwa kwa mwai kibaki kuwa rice, jamboli liloibu utata mkubwa na gasia zilizokatiza maisha wa Kenya wengi na wengine kuachwa bila makao.
+[599.50s -> 621.19s]  William Ruto alikuwa mstari mbele kudai haki hata shuglia kuesa bukura za uchaguzi huo ilipokuwa uikiendelea.
+[621.57s -> 624.35s]  Hakionekana mkakamavu kutaka haki kufanyika.
+[630.15s -> 630.87s]  Uchaguzu.
+[631.03s -> 632.03s]  Uchaguzu.
+[651.88s -> 661.70s]  Na kama anavyo simama na anawaunga kwenye karata za siyasa, Ruto alitetea kwa jino na ukucha ushindi wa chamacha ODM wakati huo.
+[661.70s -> 674.82s]  Hali ilizidi kwa hivin chini hukuruto pamoja na James Orengo, Najib Balala, Henry Kosgei na wengine wakionekana kusima makidete kupigenia kile walitaja ni ushindi wa ODM.
+[676.46s -> 685.50s]  Ni hali ambayo badai ilichafua taifa huku vilio huzuni na mahame ikawandio taswira maine omengi katia makundi hasimu ya kisiasa.
+[685.50s -> 691.82s]  Wana siyasa hawa walipokuwa kijaribu kutafuta muafaka kuhusuma chafukuhaya ya kisiasa.
+[693.44s -> 704.48s]  Mazungumzo ya kaendelea kwa muda na badai serekali ya mseto ikabuniwa, William Ruto akateuliwa waziru wa kilimo na badai pia kaudumu kama waziru wa elimia juu.
+[704.90s -> 715.48s]  Uhusiano wa William Ruto na Raila Odinga ulianza kujenga nyufa, kuhusiana na namna kushugulikia wa shukiu wa gasi ya zauchaguzi mkuu wa mwaka wa alfumbili na saba alfumbili na namna.
+[715.50s -> 721.34s]  William Ruto alikuwa miongoni mwa kenya sita waliotajua kuhusika pakubwa na gasi ya hizo.
+[722.08s -> 730.02s]  Pamoja na Uhuru Kenyata, Francis Muthura, Henry Kosgei, Hussein Alin na Joshua Arabsang.
+[747.00s -> 765.00s]  Walitakiwa kufika mbele ya mahaka majina ya ICCM jini dhihegu Holanzi.
+[765.52s -> 769.96s]  Huu ulikuwa muanzo wa wahasamo wa kisiasa baina Ruto na Raila.
+[770.58s -> 776.98s]  Mwaka wa alfumbili kuminamoja, Ruto alitimuliwa serekalini na kusalia tuka mambungi ya kisiasa.
+[777.00s -> 779.24s]  Kwa kilisha wakazu Eldoret Kaskazini.
+[779.80s -> 786.68s]  Itakumbuka pakubwa kwa alishikilia jukumu muhimu katika maandalizi ya katiba ya Kenya ya mwaka wa alfumbili na kumi,
+[787.12s -> 790.90s]  aliposhikilia watho mwenye kitu wa kamatite ule ya bunge kuhusu katiba.
+[791.70s -> 796.98s]  Akifamika kuhuzungumzaji wake uliopangika, Ruto alikuwa nandoto kuu,
+[797.34s -> 801.58s]  kama alivyobashiri kwa miaka mingi kwa wakati mmoja ingetimia.
+[801.58s -> 803.32s]  I want to be president of Kenya.
+[804.56s -> 805.74s]  Seek and you will find.
+[806.72s -> 806.98s]  No.
+[807.00s -> 809.02s]  And it will be open to you.
+[809.50s -> 815.79s]  Nizma ya mwalimuhuyu wa zamani kutaka ofisi kuu ya taifa ilionekana kumkolea,
+[816.75s -> 819.79s]  akitangaza msimamo kwenye uchaguzi wa mwaka wa alfumbili kuminatatu.
+[822.27s -> 826.29s]  Lakini, bade ya kutafakari na kucheza karata zake za siyasa,
+[826.83s -> 831.53s]  Ruto aliamua kumuunga mkono Uhuru Kenyata na kubuni muungano wa Jubilee,
+[831.53s -> 838.53s]  uliojumuisha chamachake cha URP na TNA yake Uhuru na kutuwa uongozi kwenye uchaguzi huo wa mwaka alfumbili kuminatatu.
+[839.21s -> 842.21s]  Sasa hui mutu ya Kitendawili ya nazunguka-zunguka hapa,
+[842.21s -> 844.21s]  barabara gani ya mejenga?
+[844.21s -> 846.21s]  Hospitali gani ya mejenga?
+[846.21s -> 848.21s]  Maji gani ya meleta?
+[848.21s -> 852.21s]  Kinamama wapa wanajifungua bure na serikali ya Jubilee ni kweli sikweli?
+[852.21s -> 857.21s]  Sasa njini ni watu ya kupigishwa Kitendawili na story alafu mbigie mutu kura, mutu bure?
+[857.21s -> 859.21s]  Habana.
+[859.21s -> 865.21s]  Hata mimi ni mtoto wa mfugaji na mfugaji hako na akili ya najua kupima,
+[865.21s -> 871.21s]  hapa hiko maji, hapa hiko nyazi, hii ingine ni story na Kitendawili unawachana nae.
+[871.21s -> 876.21s]  Mawimbi makali ya ICC yalionekana kuchafua bahari yake ya siyasa,
+[876.21s -> 880.21s]  minyororo ya kesihizo za uchaguzi kionekana kizingiti,
+[880.21s -> 885.21s]  ambayo Nadra itiedoa hamu yake na Uhuru Kenyata kutaka kuyongoza Kenya.
+[885.21s -> 888.21s]  Jambo ambalo Ruto alifahamufika kuwa huenda ndoto hii,
+[888.21s -> 891.21s]  ingesalia usingizini.
+[891.21s -> 896.21s]  Pia itakumbukwa kwa alipata kionjo chakiti kikuu wakati raisu Uhuru Kenyata,
+[896.21s -> 899.21s]  alipoelekea mjini dhihegu Holanzi,
+[899.21s -> 902.21s]  kukabiliwa na mmashtaka ya jinai kama raia,
+[902.21s -> 906.21s]  na kumuacha Ruto kuwa kaimu raisu ajamuhuri ya Kenya.
+[906.21s -> 911.21s]  Licha wengi kumuona mkakamavu na mara nyingine kumtadia kwa mjehuri.
+[911.21s -> 915.21s]  William Ruto pia ametambulika hadharani kwa mwenye hisia nyingi,
+[915.21s -> 917.21s]  hata kibubujiko na machozi,
+[917.21s -> 923.21s]  baada ushindi wake na raisu Uhuru Kenyata kwenye uchaguzi wa mwaka 2013.
+[923.21s -> 929.89s]  I'm really sorry.
+[929.89s -> 931.89s]  Naomba radya kika.
+[931.89s -> 943.62s]  Ana uchoyo ni ule mtu anajua kutoa.
+[943.62s -> 949.62s]  Kwa hapu awali unakumbuka kwa mba hamekejeliwa kwa mba anatope sa nyingi sana
+[949.62s -> 951.62s]  kwa harambe mbaka wanawaliza anatope sa wapi,
+[951.62s -> 956.62s]  lakini kwa wananchi palo wataona kwa mba uyu ni mtu ambaye anaroya kusaidia.
+[956.62s -> 957.62s]  Sosa wananchi wataona,
+[957.62s -> 959.62s]  wakati utamuita kusaidizi ye,
+[959.62s -> 960.62s]  wajana anatowa.
+[960.62s -> 962.62s]  So labda hiyo kidogo unesasema,
+[962.62s -> 964.62s]  labda ni mtu mkarimu,
+[964.62s -> 966.62s]  lakini siyezi sema zaidi
+[966.62s -> 972.62s]  kwa sababu yale ambao nayajua ni yale nayaona tu mimi binafsi kama mkenya mungine wakawaida.
+[972.62s -> 976.62s]  William Ruto hameandamwa na misuko-suko sihaba
+[976.62s -> 979.62s]  hukwa kijipata pabaya kwa tuhuma za ufisadi
+[979.62s -> 983.62s]  kwenye miradi kathai iliozua midahalo na mihemko nchini Kenya.
+[983.62s -> 987.62s]  Was there a meeting between the Prime Minister and Pricewaterhouse
+[987.62s -> 988.62s]  to which?
+[989.62s -> 992.62s]  Treasury, which is the contracting ministry,
+[992.62s -> 994.62s]  was excluded.
+[994.62s -> 998.62s]  And why was it followed closely by a press conference
+[998.62s -> 1002.62s]  at which attempts were made, which were very clear,
+[1002.62s -> 1006.62s]  to exhilarate certain members of staff of the Prime Minister's office?
+[1006.62s -> 1008.62s]  I mean it just follows this basic logic.
+[1008.62s -> 1012.62s]  The report mentions many people,
+[1012.62s -> 1015.62s]  but the report is categorical
+[1015.62s -> 1018.62s]  on people they consider culpable
+[1018.62s -> 1020.62s]  and people they consider not.
+[1020.62s -> 1025.62s]  I think so if you read between the lines
+[1025.62s -> 1028.62s]  you will discover that the report is absolutely clear.
+[1028.62s -> 1035.62s]  Lakini yote haya hameonekana mshupavu hata katika kukabili yaliojitokeza kizushi.
+[1035.62s -> 1036.62s]  Asante ni sana.
+[1036.62s -> 1038.62s]  Tutawonana.
+[1038.62s -> 1041.62s]  Kifamilia Ruto hamemua wa Rachel Ruto.
+[1041.62s -> 1045.62s]  Haliependa na naye halipokuwa mwanafunzi katika chuo kikucha Nairobi.
+[1045.62s -> 1047.62s]  Ambapo baba huyo wa watoto sita lisomea shumia.
+[1047.62s -> 1050.62s]  Shahada yake ya degree na hata uzamili.
+[1050.62s -> 1054.62s]  Mwana huyo wa mzee Daniel Cheruyot na Mama Sarah Cheruyot
+[1054.62s -> 1058.62s]  hameonekana kuekawazi hazma yake ya kutaka kutou wongozi
+[1058.62s -> 1060.62s]  kutoka kwa raisuhuru Kenyata
+[1060.62s -> 1064.62s]  ata kapokamilisha muhula wake mwaka alfumbili shirinambili.
+[1064.62s -> 1068.62s]  Japo hazma yake teari meonekana kupato na vizi ngiti
+[1068.62s -> 1071.62s]  kutokana na ubabe unaojitokeza.
+[1071.62s -> 1075.62s]  Ruto hame tajua kuwa marufu sana katika jamii ya wakalenjin
+[1075.62s -> 1079.62s]  kwenye kiwango wakinachokaribiana na raisimstafu Daniel Moi.
+[1079.62s -> 1081.62s]  Uwezo waki wakuongea.
+[1081.62s -> 1084.62s]  Akinja huko Rift Valley, asuwa kwa jamii la wakalenjin,
+[1084.62s -> 1087.62s]  na unge kwa luge kikalenjin, anasikika sana.
+[1087.62s -> 1090.62s]  Anawezo wakuongea vizuri sana.
+[1090.62s -> 1095.62s]  Na kuonjia nabayo inaweza kuleta chini sana na wala watu wa chini.
+[1095.62s -> 1099.62s]  So, umarufu wake wa kisiasa ni kwa sababu ya uwezo wake wakuongea.
+[1099.62s -> 1102.62s]  Iwe ni kiswahili, iwe ni luge nyumbani, iwe ni kingereza.
+[1102.62s -> 1103.62s]  Anawezo wakuongea.
+[1103.62s -> 1105.62s]  Na hiyo ndo inamusaidea kuingiana sana.
+[1105.62s -> 1112.62s]  Sithani kwa hiwi sasa, unaweza kumpacha mwana siyasa kwa hiyo kategori amba wawako.
+[1112.62s -> 1120.62s]  Sithani utapacha anayemshinda katika kuwa na hiyo uwezo ya kuweza ku...
+[1120.62s -> 1122.62s]  Kuongelesha watu na uamskizi.
+[1122.62s -> 1126.62s]  Huu ni mwana siyasi ambaye hata kama atakua mefanya makosa,
+[1126.62s -> 1129.62s]  hakuongeleshe bada muda mtache utasema ndiyo kweli.
+[1129.62s -> 1132.62s]  So, naona hiyo ni jambo kubwa sana lilinamusaidea.
+[1132.62s -> 1134.62s]  Anawezo wakuongea.
+[1134.62s -> 1135.62s]  Anawezo wakuongea.
+[1135.62s -> 1137.62s]  Nawezo wakuongea na haswa.
+[1137.62s -> 1140.62s]  Na hilo katika ulingo wa kisiasa ni mhimu zaidi.
+[1140.62s -> 1148.62s]  Hata ivo, anakibarua chamuaka wa 1222, kwa niwandani wa seneto wa Baringo Gideon Moy,
+[1148.62s -> 1152.62s]  wanamtaka wania uraisi na anatarajiwa kumege ufuwasi wa Ruto,
+[1152.62s -> 1155.62s]  hususan katika uliokuwa mkua wa Rift Valley.
+[1155.62s -> 1160.62s]  Na tunaposhiriki uchaguzi mwingine mwaka huu wa 1217,
+[1160.62s -> 1164.62s]  ni azma ya Ruto kuwa uraisi utasalia kwa jubili,
+[1164.62s -> 1166.62s]  na usukani wa Uhuru Kenyata.
+[1166.62s -> 1173.62s]  Akimezea mate na kujitarisha kutuakombe la kipute cha uchaguzi mkuu wa mwaka 1222.
+[1173.62s -> 1177.62s]  Kwa sasa hiyo inoonekana safari ya mbali kwa wengi,
+[1177.62s -> 1184.62s]  lakini kisiasa wa Swahili wanasema mkoko umeshaanza kwa lika maua katika maisha kisiasa
+[1184.62s -> 1189.62s]  ya mtu aliekuwa mwanafunzi wa siyasa chini ya Raisi Mstafu Moy,
+[1189.62s -> 1192.62s]  na pia kuwa naibu kamanda chini ya muandani wake Uhuru Kenyata,
+[1192.62s -> 1196.62s]  kwenye uongozi waliutajia kuwa wa mbaro-baro.
+[1196.62s -> 1202.34s]  Mswale Zingizi, KTN News.

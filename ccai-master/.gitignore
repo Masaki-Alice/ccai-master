@@ -1,0 +1,11 @@
+tmp
+dump.json
+docker/redis/data
+*.pyc
+docker/mongodb
+.DS_Store
+.vscode
+*.pyc
+swanglish_dataset
+data-manager/public/audio
+data-manager/public/swanglish.zip

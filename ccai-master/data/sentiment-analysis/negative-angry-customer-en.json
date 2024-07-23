@@ -1,0 +1,386 @@
+{
+  "response": {
+    "conversation": {
+      "entries": [
+        {
+          "start_timestamp_usec": 90000,
+          "text": "Call center very angry customers roleplay call number one call center agent and customer",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 11040000,
+          "text": "Thank you for calling Single Step Financial how may I assist you today?",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 16559999,
+          "text": "I have been on hold for an hour and I'm so angry right now I need to speak to someone about my account",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 27540000,
+          "text": "I apologize for the inconvenience you've experienced I understand how frustrating that can be may I please have your account number so that I can address the issue?",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 37350000,
+          "text": "It's 495-2119 and I need to know why my account was charged an extra fee",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 49500000,
+          "text": "Let's see if we can find out why you were charged an extra fee",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 56610000,
+          "text": "The bill says it's a late fee but my payment was not late I don't get where this charge came from",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 71370000,
+          "text": "I would be happy to look into this for you",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 81240000,
+          "text": "May I have your contact information so that I can follow up with you once I have more information?",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 92340000,
+          "text": "You have my phone number you have my email I just want this resolved right away",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 103230000,
+          "text": "I understand I'm so sorry I just found your contact information",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 110610000,
+          "text": "I will investigate this right away and get back to you as soon as possible with an update",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 123930000,
+          "text": "Would you prefer a text message or an email?",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 129990000,
+          "text": "Just send me a text message",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 135630000,
+          "text": "Thank you for bringing this to our attention please give me a couple of hours to look into the issue and I will text you back",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 147660000,
+          "text": "Is there anything else I can assist you with today?",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 154680000,
+          "text": "No I just want an answer today",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 160860000,
+          "text": "Yes I understand I will get back to you about this matter as soon as possible",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 171570000,
+          "text": "I've heard that before",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 180840000,
+          "text": "Call center very angry customers call number two call center agent and customer",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 200850000,
+          "text": "Hello thank you for calling Single Step Mobile my name is Scott how may I assist you?",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 210450000,
+          "text": "I have been trying to get a hold of your company for days and no one will help me I can't believe the level of incompetence",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 224040000,
+          "text": "I apologize for the difficulty you have had trying to reach our support team I know how frustrating that can be may I have your account number so that I can look up your information?",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 241860000,
+          "text": "My account number is 994571023 and I need to cancel my service right now",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 255360000,
+          "text": "Let me just pull up your account information I do apologize for any inconvenience you have experienced for verification purposes may I have your first and last name please",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 272880000,
+          "text": "What a waste of time fine it's Barbara T Simpson",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 282210000,
+          "text": "Thank you Miss Simpson could you please tell me the reason for the cancellation so that I may assist you with the process?",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 294180000,
+          "text": "I'm moving overseas",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 301230000,
+          "text": "I understand I would be happy to assist you with the cancellation process",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 307350000,
+          "text": "Could you please provide me with your new mailing address so that I can update it for our records?",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 319620000,
+          "text": "I told you I am moving out of the country",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 329580000,
+          "text": "I understand that Miss Simpson however we are supposed to obtain the customer's new mailing address for our files",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 345720000,
+          "text": "But I am not using your service anymore like never again",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 361110000,
+          "text": "I am sorry to hear that and I do understand do you happen to have a state-side address where we can send your final statement?",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 374370000,
+          "text": "Why can't you just email it to me?",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 380610000,
+          "text": "I am afraid we have to send a paper copy as well for canceled accounts",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 394620000,
+          "text": "Whatever let's just get this over with you can mail it to my mother's address",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 407310000,
+          "text": "which is 3817 Rockland Street Boise Idaho 83703",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 422040000,
+          "text": "Thank you Miss Simpson I will process the cancellation for you right away is there anything else I can assist you with today?",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 436500000,
+          "text": "No are we done?",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 441690000,
+          "text": "Yes that is all thank you again for being a customer with Single Step Mobile",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 452670000,
+          "text": "Yeah yeah save it for the next person bye",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 460380000,
+          "text": "Goodbye ma'am",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 465960000,
+          "text": "Call center very angry customers call number three call center agent and customer",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 485730000,
+          "text": "Thank you for calling Single Step Internet my name is Sandra how may I help you today?",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 498000000,
+          "text": "Hi Sandra I don't know what you people are doing but my internet has been down all morning listen",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 519539999,
+          "text": "This is the third time I have called you guys what the hell is going on there?",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 530789999,
+          "text": "I do apologize for the lack of service in your area we have been experiencing some service issues in a few different parts of the city today",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 548850000,
+          "text": "Could you please provide me with your account number so I can check if you are located in one of those areas?",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 561720000,
+          "text": "Fine my account number is 400721105",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 574710000,
+          "text": "I really need my internet service in order to do my job do you have any idea how long this is going to continue?",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 585240000,
+          "text": "Let me just check your account information",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 593010000,
+          "text": "It looks like we have our tech crew working on the problem right now",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 603210000,
+          "text": "Well I cannot give you an exact time they expect the issue to be resolved in a few hours",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 613770000,
+          "text": "A few hours what the",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 623220000,
+          "text": "This is really setting me back I have an online meeting this afternoon",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 634470000,
+          "text": "I do apologize for the inconvenience we are doing everything in our power to get it up and running as soon as possible",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 651270000,
+          "text": "I will send you a text message when our tech crew resolves the issue in your area",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 659610000,
+          "text": "I need my internet Sandra",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 664560000,
+          "text": "Again I do apologize for the trouble this is causing you",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 673650000,
+          "text": "Yeah all right goodbye",
+          "role": "AGENT",
+          "user_id": 1
+        },
+        {
+          "start_timestamp_usec": 681210000,
+          "text": "Goodbye",
+          "role": "CUSTOMER",
+          "user_id": 2
+        },
+        {
+          "start_timestamp_usec": 686190000,
+          "text": "Remember to watch our other roleplay videos",
+          "role": "AGENT",
+          "user_id": 1
+        }
+      ]
+    }
+  }
+}
